@@ -1,0 +1,15 @@
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/bin/Debug/net6.0/example005_conditionifelse
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/bin/Debug/net6.0/example005_conditionifelse.deps.json
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/bin/Debug/net6.0/example005_conditionifelse.runtimeconfig.json
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/bin/Debug/net6.0/example005_conditionifelse.dll
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/bin/Debug/net6.0/example005_conditionifelse.pdb
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/obj/Debug/net6.0/example005_conditionifelse.csproj.AssemblyReference.cache
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/obj/Debug/net6.0/example005_conditionifelse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/obj/Debug/net6.0/example005_conditionifelse.AssemblyInfoInputs.cache
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/obj/Debug/net6.0/example005_conditionifelse.AssemblyInfo.cs
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/obj/Debug/net6.0/example005_conditionifelse.csproj.CoreCompileInputs.cache
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/obj/Debug/net6.0/example005_conditionifelse.dll
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/obj/Debug/net6.0/refint/example005_conditionifelse.dll
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/obj/Debug/net6.0/example005_conditionifelse.pdb
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/obj/Debug/net6.0/example005_conditionifelse.genruntimeconfig.cache
+/Users/dmitriy_pie/Desktop/gb/example005_conditionifelse/obj/Debug/net6.0/ref/example005_conditionifelse.dll
