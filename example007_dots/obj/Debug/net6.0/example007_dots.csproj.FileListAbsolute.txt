@@ -1,0 +1,15 @@
+/Users/dmitriy_pie/Desktop/gb/example007_dots/obj/Debug/net6.0/example007_dots.csproj.AssemblyReference.cache
+/Users/dmitriy_pie/Desktop/gb/example007_dots/obj/Debug/net6.0/example007_dots.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriy_pie/Desktop/gb/example007_dots/obj/Debug/net6.0/example007_dots.AssemblyInfoInputs.cache
+/Users/dmitriy_pie/Desktop/gb/example007_dots/obj/Debug/net6.0/example007_dots.AssemblyInfo.cs
+/Users/dmitriy_pie/Desktop/gb/example007_dots/obj/Debug/net6.0/example007_dots.csproj.CoreCompileInputs.cache
+/Users/dmitriy_pie/Desktop/gb/example007_dots/bin/Debug/net6.0/example007_dots
+/Users/dmitriy_pie/Desktop/gb/example007_dots/bin/Debug/net6.0/example007_dots.deps.json
+/Users/dmitriy_pie/Desktop/gb/example007_dots/bin/Debug/net6.0/example007_dots.runtimeconfig.json
+/Users/dmitriy_pie/Desktop/gb/example007_dots/bin/Debug/net6.0/example007_dots.dll
+/Users/dmitriy_pie/Desktop/gb/example007_dots/bin/Debug/net6.0/example007_dots.pdb
+/Users/dmitriy_pie/Desktop/gb/example007_dots/obj/Debug/net6.0/example007_dots.dll
+/Users/dmitriy_pie/Desktop/gb/example007_dots/obj/Debug/net6.0/refint/example007_dots.dll
+/Users/dmitriy_pie/Desktop/gb/example007_dots/obj/Debug/net6.0/example007_dots.pdb
+/Users/dmitriy_pie/Desktop/gb/example007_dots/obj/Debug/net6.0/example007_dots.genruntimeconfig.cache
+/Users/dmitriy_pie/Desktop/gb/example007_dots/obj/Debug/net6.0/ref/example007_dots.dll
