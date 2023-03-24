@@ -1,0 +1,15 @@
+/Users/dmitriy_pie/Desktop/gb/example004_diff/obj/Debug/net6.0/example004_diff.csproj.AssemblyReference.cache
+/Users/dmitriy_pie/Desktop/gb/example004_diff/obj/Debug/net6.0/example004_diff.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitriy_pie/Desktop/gb/example004_diff/obj/Debug/net6.0/example004_diff.AssemblyInfoInputs.cache
+/Users/dmitriy_pie/Desktop/gb/example004_diff/obj/Debug/net6.0/example004_diff.AssemblyInfo.cs
+/Users/dmitriy_pie/Desktop/gb/example004_diff/obj/Debug/net6.0/example004_diff.csproj.CoreCompileInputs.cache
+/Users/dmitriy_pie/Desktop/gb/example004_diff/bin/Debug/net6.0/example004_diff
+/Users/dmitriy_pie/Desktop/gb/example004_diff/bin/Debug/net6.0/example004_diff.deps.json
+/Users/dmitriy_pie/Desktop/gb/example004_diff/bin/Debug/net6.0/example004_diff.runtimeconfig.json
+/Users/dmitriy_pie/Desktop/gb/example004_diff/bin/Debug/net6.0/example004_diff.dll
+/Users/dmitriy_pie/Desktop/gb/example004_diff/bin/Debug/net6.0/example004_diff.pdb
+/Users/dmitriy_pie/Desktop/gb/example004_diff/obj/Debug/net6.0/example004_diff.dll
+/Users/dmitriy_pie/Desktop/gb/example004_diff/obj/Debug/net6.0/refint/example004_diff.dll
+/Users/dmitriy_pie/Desktop/gb/example004_diff/obj/Debug/net6.0/example004_diff.pdb
+/Users/dmitriy_pie/Desktop/gb/example004_diff/obj/Debug/net6.0/example004_diff.genruntimeconfig.cache
+/Users/dmitriy_pie/Desktop/gb/example004_diff/obj/Debug/net6.0/ref/example004_diff.dll
